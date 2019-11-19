@@ -1,0 +1,212 @@
+body {
+	height: 100%;
+	width: 100%;
+	display: flex;
+	background-image: url("background.png");
+	background-size: cover;
+	margin: 0;
+}
+
+.box1 {
+	height: 100%;
+	width: 60%;
+	display: block;
+	background-color: transparent;
+}
+
+.top-row {
+	height: 25%;
+	width: 100%;
+	display: flex;
+	background-color: transparent; 
+}
+
+.holdest {
+	height:100%;
+	width:calc(100%/3);
+	display: flex;
+	background-color: transparent;
+}
+.center{
+	max-height: 100%;
+	max-width: 100%;
+}
+img {
+	height:100%;
+	width: 100%;
+	
+}
+.bottom-box {
+	height: 75%;
+	width: 100%;
+	display: flex; 
+	background-color: transparent; 
+}
+
+.box2 {
+	height: 100%;
+	width: 40%;
+	display: flex; 
+	background-color: transparent; 
+}
+
+.column {
+	height: 100%;
+	width: 100%;
+	display: block; 
+	background-color: transparent;
+}
+
+.holder {
+	height: calc(100%/4);
+	width: 100%;
+	display: flex;
+	background-color: transparent;
+}
+@media only screen and (max-width:768px) {
+	
+body {
+	height: 100%;
+	width: 100%;
+	display: block;
+	background-image: url("background.png");
+	background-repeat: repeat;
+	background-size: cover;
+	margin: 0;
+}
+	
+.box1 {
+	height: 50%;
+	width: 100%;
+	display: block;
+	background-color: transparent;
+}
+
+.top-row {
+	height: 25%;
+	width: 100%;
+	display: flex;
+	background-color: transparent; 
+}
+
+.bottom-box {
+	height: 75%;
+	width: 100%;
+	display: flex; 
+	background-color: transparent; 
+}
+
+.box2 {
+	height: 100%;
+	width: 100%;
+	display: flex; 
+	background-color: transparent; 
+}
+
+.column {
+	height: 100%;
+	width: 50%;
+	display: block; 
+	background-color: transparent;
+}
+
+.holder {
+	height: calc(100%/4);
+	width: 100%;
+	display: flex;
+	background-color: transparent;
+}
+	
+}
+
+@media only screen and (max-width:414px) {
+	
+body {
+	height: 100%;
+	width: 100%;
+	display: block;
+	background-image: url("background.png");
+	background-repeat: repeat;
+	background-size: cover%;
+	margin: 0;
+}
+	
+.box1 {
+	height: 60%;
+	width: 100%;
+	display: block;
+	background-color: transparent;
+}
+
+.top-row {
+	height: 25%;
+	width: 100%;
+	display: flex;
+	background-color: transparent; 
+}
+
+.bottom-box {
+	height: 75%;
+	width: 100%;
+	display: flex; 
+	background-color: transparent; 
+}
+
+.box2 {
+	height: 100%;
+	width: 100%;
+	display: block; 
+	background-color: transparent; 
+}
+
+.column {
+	height: 100%;
+	width: 100%;
+	display: block; 
+	background-color: transparent;
+}
+
+.holder {
+	height: calc(100%/4);
+	width: 100%;
+	display: flex;
+	background-color: transparent;
+}
+	
+}
+	
+	
+	
+	
+	
+	
+	
+	
+
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
